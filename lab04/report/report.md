@@ -81,7 +81,7 @@ header-includes:
 
 ![Проверка правильности установления атрибута \texttt{a}](image/5.png){ #fig:005 width=70% }
 
-Выполнил дозапись в файл \texttt{file1} слова "test" командой \texttt{echo >> "test" /home/guest/dir1/file1}. Дозапись не удалась. После этого выполнил чтение файла \texttt{file1} командой \texttt{cat /home/guest/dir1/file1}. (рис -@fig:006).
+Выполнил дозапись в файл \texttt{file1} слова "test" командой \texttt{echo >> "test" /home/guest/dir1/file1}. Дозапись удалась. После этого выполнил чтение файла \texttt{file1} командой \texttt{cat /home/guest/dir1/file1}. (рис -@fig:006).
 
 ![Дозапись в файл и его прочтение](image/6.png){ #fig:006 width=70% }
 
